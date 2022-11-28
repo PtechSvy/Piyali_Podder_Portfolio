@@ -11,7 +11,7 @@ Involved in daily calls for giving daily inputs for each sprint, defect triage c
 Involved in performing deployments for different builds in different environments using deploy tool
 Responsible for creation of Puppet manifests to be injected in Deploy tool.
 
-<center><img src="/assets/img/Automation.jpeg" class="img-responsive" alt=""> </div></center>
+<center><img src="/assets/img/Automation.jpeg"/></center>
 
 
 ## Machine learning
