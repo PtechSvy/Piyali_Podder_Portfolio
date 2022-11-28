@@ -11,14 +11,14 @@ Involved in daily calls for giving daily inputs for each sprint, defect triage c
 Involved in performing deployments for different builds in different environments using deploy tool
 Responsible for creation of Puppet manifests to be injected in Deploy tool.
 
-<center><img src="images/Automation.jpeg"/></center>
+<center><img src="/assets/img/Automation.jpeg" class="img-responsive" alt=""> </div></center>
 
 
 ## Machine learning
 
 ### Fraud Detection
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="/assets/images/fraud_detection.jpg"/></center>
 
 ## Education
 
