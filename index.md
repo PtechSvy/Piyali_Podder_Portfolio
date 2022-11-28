@@ -1,4 +1,4 @@
-# Automation Testing & Data Science Portfolio
+# Automation Testing,DevOps & Data Science Portfolio
 ---
 
 ## Automation Testing using Selenium & Hybrid Framework
@@ -8,7 +8,10 @@ Involved in weekly Sanity and Regression tests for each Release/drop deployment 
 Developed and executed Automation test scripts using Java utilizing existing repository methods defined for locators and UI actions .
 Managed Automation Project in GitLab repository and involved in running CI/CD pipeline directly from GitLab.
 Involved in daily calls for giving daily inputs for each sprint, defect triage calls to review defects and Sprint Retrospective calls to discuss on the QA story points for the new Agile Stories in JIRA.
-<center><img src="images/Automation.jpg"/></center>
+Involved in performing deployments for different builds in different environments using deploy tool
+Responsible for creation of Puppet manifests to be injected in Deploy tool.
+
+<center><img src="images/Automation.jpeg"/></center>
 
 
 ## Machine learning
@@ -18,6 +21,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ## Education
+
 B.Tech: Electrical Engineering
 Future Institute of Engineering & Management - Kolkata, WB (2008-2012)
 
