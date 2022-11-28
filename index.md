@@ -1,123 +1,43 @@
+# Automation Testing & Data Science Portfolio
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Automation Testing using Selenium & Hybrid Framework
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Responsible for enhancement for the existing Automation Framework for Fenergo web application and Entity Master using Selenium with Java using TestNG for different Fenergo banking Operations. 
+Involved in weekly Sanity and Regression tests for each Release/drop deployment defined for the Sprint in Scrum Dashboard for QA,DEV,PL,UAT and DR environments.
+Developed and executed Automation test scripts using Java utilizing existing repository methods defined for locators and UI actions .
+Managed Automation Project in GitLab repository and involved in running CI/CD pipeline directly from GitLab.
+Involved in daily calls for giving daily inputs for each sprint, defect triage calls to review defects and Sprint Retrospective calls to discuss on the QA story points for the new Agile Stories in JIRA.
+<center><img src="images/Automation.jpg"/></center>
 
 
-### Definition lists can be used with HTML syntax.
+## Machine learning
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Fraud Detection
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+<center><img src="images/fraud_detection.jpg"/></center>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Education
+B.Tech: Electrical Engineering
+Future Institute of Engineering & Management - Kolkata, WB (2008-2012)
 
-```
-The final element.
-```
+### Certifications
+
+<table>
+  <tr>
+    <th>Certification Name</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Microsoft Certified:Azure Fundamentals</td>
+    <td>2022-06</td>
+  </tr>
+  <tr>
+    <td>Certified Tester Foundation Level (ISTQB)</td>
+    <td>2014-04</td>
+  </tr>
+    <tr>
+    <td>AWS Certified</td>
+    <td>2019-08</td>
+  </tr>
+</table>
