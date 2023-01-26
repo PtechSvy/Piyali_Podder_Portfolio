@@ -63,8 +63,10 @@ behind loan default, i.e.the variables which are strong indicators of default.Th
 
 ## Education
 
-B.Tech: Electrical Engineering
+* B.Tech: Electrical Engineering
 Future Institute of Engineering & Management - Kolkata, WB (2008-2012)
+
+* EPGDS - AI & ML , IIIT Bangalore (2022 - 2024)
 
 ## Certifications
 
