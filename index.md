@@ -39,15 +39,15 @@ Technology professional with 10 years of IT experience in Automation & Manual Te
   
   * <b>Tata Consultancy Services | May 2016 - October 2021 </b>
 
-  QA Lead for the offshore QA Team. Responsible for managing and planning work at offshore.
-  Responsible for Automating different payment gateway services hosted in AWS Instances using Karate  Framework and also responsible for automating money transfer UI tool with open source Automation tools Selenium (Selenium WebDriver, Cucumber, JUnit, Eclipse,Page Object Model & Page Factory).
-  Also,Involved in monitoring logs in AWS Cloud watch send via AWS API for different programs.
-  Coordinated with client and onsite members and ensure that no slippages are there in the requirements and Interacted with the application owners and other stakeholders to understand the requirements.
+   QA Lead for the offshore QA Team. Responsible for managing and planning work at offshore.
+   Responsible for Automating different payment gateway services hosted in AWS Instances using Karate  Framework and also responsible for automating money transfer UI tool with open source Automation tools Selenium (Selenium WebDriver, Cucumber, JUnit, Eclipse,Page Object Model & Page Factory).
+   Also,Involved in monitoring logs in AWS Cloud watch send via AWS API for different programs.
+   Coordinated with client and onsite members and ensure that no slippages are there in the requirements and Interacted with the application owners and other stakeholders to understand the requirements.
 
 * <b>Cognizant Technology Solutions | August 2012 - May 2016 </b>
 
-  Involved in creation of Test Cases,Test Scenarios and Requirement traceability matrix and defects in HP-ALM tool for each use cases defined for different requirements.
-  Performed Sanity,Functional and Regression testing Manually for Merchant Services applications for Acquiring business.
+   Involved in creation of Test Cases,Test Scenarios and Requirement traceability matrix and defects in HP-ALM tool for each use cases defined for different requirements.
+   Performed Sanity,Functional and Regression testing Manually for Merchant Services applications for Acquiring business.
 
 <center><img src="/assets/img/Automation.jpeg"/></center>
 
