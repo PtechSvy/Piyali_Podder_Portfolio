@@ -49,7 +49,7 @@ Technology professional with 10 years of IT experience in Automation & Manual Te
    Involved in creation of Test Cases,Test Scenarios and Requirement traceability matrix and defects in HP-ALM tool for each use cases defined for different requirements.
    Performed Sanity,Functional and Regression testing Manually for Merchant Services applications for Acquiring business.
 
-<center><img src="https://github.com/PtechSvy/portfolio/tree/master/assets/img/Automation.jpeg"/></center>
+<center><img src="assets/img/Automation.jpeg"/></center>
 
 ## Exploratory Data Analysis Assignment 
 
@@ -60,7 +60,7 @@ Identification of such applicants using EDA is the aim of this case study. Perfo
 behind loan default, i.e.the variables which are strong indicators of default.The company can utilise this knowledge for its portfolio and risk assessment. 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PtechSvy/LendingClubCaseStudy)
-<center><img src="https://github.com/PtechSvy/portfolio/tree/master/assets/img/LendingClub.png"/></center>
+<center><img src="assets/img/LendingClub.png"/></center>
 
 ## Education
 
