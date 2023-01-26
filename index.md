@@ -5,6 +5,7 @@
 Technology professional with 10 years of IT experience in Automation & Manual Testing. To work devotedly for the organization with great pride in the profession where my knowledge transitioned and talents are encouraged. To contribute towards testing of complex application which makes use of my testing skills,devOps skills , project management & mentoring skills. Good at Analytical thinking and Code Debugging. Understand the Customer defects explained in Business perspective and provide equivalent technical solution to the errors.
 
 ## Skills:-
+
 <table>
 <tr>
   <th>Skills</th>
@@ -28,6 +29,7 @@ Technology professional with 10 years of IT experience in Automation & Manual Te
  <tr>
  </tr>   
 </table>
+----
 
 ## Employment History
 
@@ -52,7 +54,8 @@ Technology professional with 10 years of IT experience in Automation & Manual Te
 <center><img src="/assets/img/Automation.jpeg"/></center>
 
 ## Exploratory Data Analysis Assignment 
-## Lending Club Case Study
+
+# Lending Club Case Study
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refusesto pay or runs away with the money owed.  
 The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study. Perform an analysis to understand the driving factors (or driver variables)
