@@ -3,49 +3,49 @@ Technology professional with 10 years of IT experience in Automation & Manual Te
 ---
 
 ## Skills:-
-* Testing Tools & Frameworks:-  
-1)Selenium 3 WebDriver
-2)Karate
-3)RestAssured basics
-4)BDD Framework
-5)TestNG
-
-* Programming Languages:-
-1)Java 11 Fundamentals
-2)Java Collection basics
-3)Python basics
-
-* IDE & Reporting Tools:-
-1)IntelliJ
-2)Eclipse
-3)Visual Studio
-4)Jupyter Notebook
-
-* Script Languages:-
-1)Unix & Shell Scripting basics
-2)JavaScript Basics
-
-* Web Services:-
-1)REST Api
-2)SOAP Api
+<table>
+<tr>
+  <th>Skills</th>
+  <th>Data<th>
+</tr>
+<tr>
+  <td>Testing Tools & Frameworks:-</td>
+  <td>Selenium 3 WebDriver,BDD Framework,Karate,TestNG,RestAssured basics</td>
+</tr>  
+<tr>
+   <td>Programming Languages:-</td>
+   <td>Java 11 Fundamentals,Java Collection basics,Java 8 basics,Python Basics,HTML</td>
+<tr>
+<tr>
+    <td>IDE & Reporting Tools:-</td>
+    <td>IntelliJ,Eclipse,Jupyter Notebook,Visual Studio</td>
+</tr>
+<tr>
+    <td>Script Languages:-</td>
+    <td>Unix & Shell Scripting basics,JavaScript Basics
+ <tr>
+ </tr>   
+</table>
 
 ## Employment History
- * [Accenture][employer Accenture], October 2021 - present
-<span class = "jobline" id = "Field">
-<ul>
-    <li>
-      ::marker
-      "Responsible for creating test scripts and updating existing hybrid framework for Fenergo GUI application and Entity Master leveraging Selenium tool , Java language,TestNG and Jackson API"
-    </li>
-    <li>
+ * Accenture | October 2021 - present
+   Working as an individual contributor and team lead towards enhancement of existing Automation framework created for both UI and API Automation for client based Front end and back end applications hosted in Azure leveraging Core Java as the programming Language using Selenium Webdriver ,TestNG tools and other tools. Also maintaing and running pipeline from the repository maintained in GitLab.Upskilled and involved in DevOps task in running client inhouse Deploy tool for deployment of different versions in different environments.
+   Also voluntered in data analysis task in visualizing data using different graphs,plots using Python.
+   Involved in Sprint Planning,Sprint refinement and retrospective calls as QA Lead.
+  
+  * Tata Consultancy Services | May 2016 - October 2021
+  QA Lead for the offshore QA Team. Responsible for managing and planning work at offshore.
+  Responsible for Automating different payment gateway services hosted in AWS Instances using Karate  Framework and also responsible for automating money transfer UI tool with open source Automation tools Selenium (Selenium WebDriver, Cucumber, JUnit, Eclipse,Page Object Model & Page Factory).
+  Also,Involved in monitoring logs in AWS Cloud watch send via AWS API for different programs.
+  Coordinated with client and onsite members and ensure that no slippages are there in the requirements and Interacted with the application owners and other stakeholders to understand the requirements.
 
-
+* Cognizant Technology Solutions | August 2012 - May 2016
+  Involved in creation of Test Cases,Test Scenarios and Requirement traceability matrix and defects in HP-ALM tool for each use cases defined for different requirements.
+  Performed Sanity,Functional and Regression testing Manually for Merchant Services applications for Acquiring business.
 
 <center><img src="/assets/img/Automation.jpeg"/></center>
 
-
-## Exploratory Data Analysis Assignment
-
+## Exploratory Data Analysis Assignment 
 ### Lending Club Case Study
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refusesto pay or runs away with the money owed.  
 The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
@@ -60,7 +60,7 @@ behind loan default, i.e.the variables which are strong indicators of default.Th
 B.Tech: Electrical Engineering
 Future Institute of Engineering & Management - Kolkata, WB (2008-2012)
 
-### Certifications
+## Certifications
 
 <table>
   <tr>
